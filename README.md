@@ -28,16 +28,10 @@ Random Forest and Logistic Regression
 * Evaluation Metrics:
 Accuracy, Precision, Recall, F1-score
 
-* Hyper parameter tunning models
- Boosting algorithms used: Cat Boost Classifier, XGB Classifier
+* Boosting algorithms used: Cat Boost Classifier, XGB Classifier
 
-* Comparison Of All Models
-
-*    Algorithm              Accuracy  Precision  Recall  F1 Score
-1  Logistic Regression       0.64       0.79     0.66      0.72
-2  Random Forest             0.98       0.97     0.94      0.96
-3  Decision Tree             0.97       0.97     0.95      0.96
-
+* Comparison Of All Models is done.
+  
 * Conclusion:
 The Random Forest model, with a accuracy of 98% , outperforms other models, showcasing its balanced performance, robustness, flexibility, and feature importance insights,
 making it the optimal choice for accurate and reliable predictions. Based on the evaluation results, we recommend using the Random Forest model for predicting whether a patient is
